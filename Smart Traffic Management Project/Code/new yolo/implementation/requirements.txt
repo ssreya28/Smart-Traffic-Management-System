@@ -1,0 +1,16 @@
+Cython
+h5py
+importlib-metadata
+Keras-Applications
+Keras-Preprocessing
+kiwisolver
+Markdown
+matplotlib
+numpy
+opencv-python
+pyparsing
+python-dateutil
+pygame
+tensorboard
+tensorflow
+tensorflow-estimator
